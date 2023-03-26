@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning AI, ML, Python.
 - 💞️ I’m looking to collaborate on anything related to Full Stack Development.
-- 📫 How to reach me : https://rachitmehrotra-io.netlify.app/
+- 📫 How to reach me : https://www.linkedin.com/in/rachit-mehrotra-io/
 
 <!---
 rachitmeck/rachitmeck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
