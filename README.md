@@ -17,9 +17,9 @@ My recent work has increased **customer efficiency** and profitability by provid
 
 ## Skills :computer: :computer:  
 
-- **Frontend:** React, HTML, CSS, JavaScript :rocket: 👨‍💻
-- **Backend:** Node.js, Express, MongoDB :rocket: 👨‍💻
-- **Tools:** Git, GitHub, VS Code, Heroku :rocket: 👨‍💻
+- **Frontend:** React, HTML, CSS, JavaScript, React Native, ExpressJS, NextJS :rocket: 👨‍💻
+- **Backend:** Node.js, Express, MongoDB, Spring, Java :rocket: 👨‍💻
+- **Tools:** Git, GitHub, VS Code, OpenShift, Dynatrace, Kibana, Jira, GitLab, BickBucket, Sonarqube :rocket: 👨‍💻
  
 ## Projects
 I have worked with my International clients onsite, worked closely with them, and delivered always as promised. Below are the clients I have worked tii date.
