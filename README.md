@@ -1,6 +1,21 @@
+<div id="header" align="center">
+  <h2> Hi 👋 I'm Rachit Mehrotra</h2>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/rachit-mehrotra-io/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.sudheerjonna.com">
+      <img src="https://www.linkedin.com/newsletters/7101004635431194625/" alt="Blog Badge"/>
+    </a>
+  </div>
+</div>
+
+
 # Hi there! 👋
 
-I'm a full-stack developer with experience in building web applications using **React**, **Node.js**, and **MongoDB**. I'm passionate about creating intuitive and dynamic user experiences that are both functional and beautiful.
+I'm a full-stack developer with experience in building web applications using **React**, **Node.js**, and **MongoDB**. 
+I'm passionate about creating intuitive and dynamic user experiences that are both functional and beautiful.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ## Skills :computer: :computer:  
 
