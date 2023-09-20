@@ -3,7 +3,7 @@
 I'm a full-stack developer with experience in building web applications using **React**, **Node.js**, and **MongoDB**. I'm passionate about creating intuitive and dynamic user experiences that are both functional and beautiful.
 
 ## Skills
-
+:computer: - Represents coding or programming.
 - **Frontend:** React, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express, MongoDB
 - **Tools:** Git, GitHub, VS Code, Heroku
