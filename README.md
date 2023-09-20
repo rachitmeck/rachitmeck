@@ -10,17 +10,17 @@ I'm a full-stack developer with experience in building web applications using **
  
 ## Projects
 
-- **Client 1:** [AXA Indonesia]  ## ONSITE :computer: :smile: 🔥 
-- **Client 2:** [AXA Thailand]
-- **Client 3:** [Aviva Singapore]
-- **Client 4:** [Dubai Insurance]
-- **Client 5:** [Prudential Malaysia Insurance]
-- **Client 6:** [Prudential Malaysia Takaful Insurance]
-- **Client 7:** [Prudential Singapore Insurance]
-- **Client 8:** [Prudential Vietnam Insurance]
-- **Client 9:** [Prudential Hong Kong Insurance]
-- **Client 10:** [Prudential Thailand Insurance]
-- **Client 10:** [FWD Vietnam Insurance]
+- **Client 1:** [AXA Indonesia]  **OFFSITE** 👨‍💻 :computer: :smile: 🔥 
+- **Client 2:** [AXA Thailand] **ONSITE** 👨‍💻 :computer: :smile: 🔥 
+- **Client 3:** [Aviva Singapore] **OFFSITE** 👨‍💻 :computer: :smile: 🔥 
+- **Client 4:** [Dubai Insurance] **ONSITE** 👨‍💻 :computer: :smile: 🔥 
+- **Client 5:** [Prudential Malaysia Insurance] **ONSITE** 👨‍💻 :computer: :smile: 🔥 
+- **Client 6:** [Prudential Malaysia Takaful Insurance] **ONSITE** 👨‍💻 :computer: :smile: 🔥 
+- **Client 7:** [Prudential Singapore Insurance] **ONSITE** 👨‍💻 :computer: :smile: 🔥 
+- **Client 8:** [Prudential Vietnam Insurance] **ONSITE** 👨‍💻 :computer: :smile: 🔥 
+- **Client 9:** [Prudential Hong Kong Insurance] **OFFSITE** 👨‍💻 :computer: :smile: 🔥 
+- **Client 10:** [Prudential Thailand Insurance] **ONSITE** 👨‍💻 :computer: :smile: 🔥 
+- **Client 10:** [FWD Vietnam Insurance] **OFFSITE** 👨‍💻 :computer: :smile: 🔥 
 
 ## Contact Me
 
