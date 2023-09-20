@@ -10,9 +10,17 @@ I'm a full-stack developer with experience in building web applications using **
  
 ## Projects
 
-- **Client 1:** [AXA Indonesia]  ## ONSITE :smile:
-- **Client 2:** [AXA Thailand] :smile:
-- **Client 3:** [Aviva Singapore] :smile:
+- **Client 1:** [AXA Indonesia]  ## ONSITE :computer: :smile: 🔥 
+- **Client 2:** [AXA Thailand]
+- **Client 3:** [Aviva Singapore]
+- **Client 4:** [Dubai Insurance]
+- **Client 5:** [Prudential Malaysia Insurance]
+- **Client 6:** [Prudential Malaysia Takaful Insurance]
+- **Client 7:** [Prudential Singapore Insurance]
+- **Client 8:** [Prudential Vietnam Insurance]
+- **Client 9:** [Prudential Hong Kong Insurance]
+- **Client 10:** [Prudential Thailand Insurance]
+- **Client 10:** [FWD Vietnam Insurance]
 
 ## Contact Me
 
