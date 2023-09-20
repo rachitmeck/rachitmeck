@@ -8,7 +8,7 @@
 </div>
 
 
-# Hi there! 👋
+# Annyeonghaseyo there! 👋
 
 I'm a full-stack developer with experience in building web applications using **React**, **Node.js**, and **MongoDB**. 
 I'm passionate about creating intuitive and dynamic user experiences that are both functional and beautiful.
