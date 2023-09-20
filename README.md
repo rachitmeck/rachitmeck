@@ -10,7 +10,7 @@ I'm a full-stack developer with experience in building web applications using **
  
 ## Projects
 
-- **Client 1:** [AXA Indonesia] :smile:
+- **Client 1:** [AXA Indonesia]  <mark>ONSITE</mark>. :smile:
 - **Client 2:** [AXA Thailand] :smile:
 - **Client 3:** [Aviva Singapore] :smile:
 
