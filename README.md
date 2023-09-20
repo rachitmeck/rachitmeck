@@ -22,7 +22,7 @@ My recent work has increased **customer efficiency** and profitability by provid
 - **Tools:** Git, GitHub, VS Code, Heroku :rocket: 👨‍💻
  
 ## Projects
-
+I have worked with my International clients onsite, worked closely with them, and delivered always as promised. Below are the clients I have worked tii date.
 - **Client 1:** [AXA Indonesia]  **OFFSITE** 👨‍💻 :computer: :smile: 🔥 
 - **Client 2:** [AXA Thailand] **ONSITE** 👨‍💻 :computer: :smile: 🔥 
 - **Client 3:** [Aviva Singapore] **OFFSITE** 👨‍💻 :computer: :smile: 🔥 
@@ -39,8 +39,6 @@ My recent work has increased **customer efficiency** and profitability by provid
 
 - [LinkedIn](https://www.linkedin.com/in/rachit-mehrotra-io/)
 - [Email](rachitmehrotra04@gmail.com)
-
-
 
 
 #### :hammer_and_wrench: Languages and Tools :
