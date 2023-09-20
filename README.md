@@ -8,10 +8,11 @@
 </div>
 
 
-# Annyeonghaseyo there! 👋
+# Hello, there! 👋
 
-I'm a full-stack developer with experience in building web applications using **React**, **Node.js**, and **MongoDB**. 
-I'm passionate about creating intuitive and dynamic user experiences that are both functional and beautiful.
+I'm a full-stack developer with experience in building efficient and scalable applications.
+7 years of Software Engineer experience in multiple countries; with a passionate, self-motivated, and creative attitude toward solving customer problems. 
+My recent work has increased **customer efficiency** and profitability by providing an efficient solution. A self-learner and passionate about the AI/ML journey.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ## Skills :computer: :computer:  
