@@ -19,7 +19,7 @@ My recent work has increased **customer efficiency** and profitability by provid
 
 - **Frontend:** React, JavaScript, React Native, NextJS, HTML, CSS, Angular, NPM, TypeScript :rocket: 👨‍💻
 - **Backend:** Spring Boot, Node.js, Express, MongoDB, Spring, Java, Hibernate, PostgreSQL, MySQL, Spring Data JPA, Spring Batch, Spring LDAP :rocket: 👨‍💻
-- **Tools:** Git, GitHub, VS Code, OpenShift, Dynatrace, Kibana, Jira, GitLab, BigBucket, Sonarqube, IBM BPM, IBM Content Manager, IBM FileNet, Activiti BPM, Flowable BPM, Eclipse, Intellij, CMX, Kafka, ELK, AWS, Figma, Visio  :rocket: 👨‍💻
+- **Tools:** Git, GitHub, VS Code, OpenShift, Dynatrace, Kibana, Jira, GitLab, BigBucket, Sonarqube, IBM BPM, IBM Content Manager, IBM FileNet, Activiti BPM, Flowable BPM, Eclipse, Intellij, CMX, Kafka, ELK, AWS, Figma, Visio, Firebase  :rocket: 👨‍💻
  
 ## Projects and Clients I have worked with and Delivered
 I have worked with my International clients onsite, worked closely with them, and delivered always as promised. Below are the clients I have worked with to date.
