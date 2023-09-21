@@ -21,19 +21,28 @@ My recent work has increased **customer efficiency** and profitability by provid
 - **Backend:** Spring Boot, Node.js, Express, MongoDB, Spring, Java, Hibernate, PostgreSQL, MySQL, Spring Data JPA, Spring Batch, Spring LDAP :rocket: 👨‍💻
 - **Tools:** Git, GitHub, VS Code, OpenShift, Dynatrace, Kibana, Jira, GitLab, BigBucket, Sonarqube, IBM BPM, IBM Content Manager, IBM FileNet, Activiti BPM, Flowable BPM, Eclipse, Intellij, CMX, Kafka, ELK, AWS, Figma, Visio, Firebase  :rocket: 👨‍💻
  
-## Projects and Clients I have worked with and Delivered
+## Clients and Projects I have worked with and Delivered:
 I have worked with my International clients onsite, worked closely with them, and delivered always as promised. Below are the clients I have worked with to date.
-- **Client 1:** [AXA Indonesia]  **OFFSITE** 👨‍💻 :computer: :smile: 🔥 
-- **Client 2:** [AXA Thailand] **ONSITE** 👨‍💻 :computer: :smile: 🔥 
-- **Client 3:** [Aviva Singapore] **OFFSITE** 👨‍💻 :computer: :smile: 🔥 
-- **Client 4:** [Dubai Insurance] **ONSITE** 👨‍💻 :computer: :smile: 🔥 
-- **Client 5:** [Prudential Malaysia Insurance] **ONSITE** 👨‍💻 :computer: :smile: 🔥 
-- **Client 6:** [Prudential Malaysia Takaful Insurance] **ONSITE** 👨‍💻 :computer: :smile: 🔥 
-- **Client 7:** [Prudential Singapore Insurance] **ONSITE** 👨‍💻 :computer: :smile: 🔥 
-- **Client 8:** [Prudential Vietnam Insurance] **ONSITE** 👨‍💻 :computer: :smile: 🔥 
-- **Client 9:** [Prudential Hong Kong Insurance] **OFFSITE** 👨‍💻 :computer: :smile: 🔥 
-- **Client 10:** [Prudential Thailand Insurance] **ONSITE** 👨‍💻 :computer: :smile: 🔥 
-- **Client 11:** [FWD Vietnam Insurance] **OFFSITE** 👨‍💻 :computer: :smile: 🔥 
+- **AXA Indonesia:** `OFFSITE` 👨‍💻 :indonesia: 
+- **AXA Thailand:** `ONSITE` 👨‍💻 :thailand: 
+- **Aviva Singapore:**   `OFFSITE` 👨‍💻 :singapore:
+- **Dubai Insurance:** `ONSITE` 👨‍💻 :united_arab_emirates:
+- **Prudential Malaysia Insurance:**  `ONSITE` 👨‍💻 :malaysia: 
+- **Prudential Malaysia Takaful Insurance:** `ONSITE` 👨‍💻 :malaysia: 
+- **Prudential Singapore Insurance:** `ONSITE` 👨‍💻 :singapore: 
+- **Prudential Vietnam Insurance:** `ONSITE` 👨‍💻 :vietnam:
+- **Prudential Hong Kong Insurance:** `OFFSITE` 👨‍💻 :hong_kong:
+- **Prudential Thailand Insurance:** `ONSITE` 👨‍💻 :thailand:
+- **FWD Vietnam Insurance:** `OFFSITE` 👨‍💻 :vietnam: 
+  
+<div>
+  <img src="https://www.prudential.com.my/export/sites/prudential-pamb/en/.galleries/images/prudential-malaysia-logo-1200x630.jpg" width="170" height="80">
+   <img src="https://axa.co.id/o/axaone-theme/images/logo-axa.png" width="80" height="80"> 
+  <img src="https://www.dubins.ae/dubins/portals/_default/Skins/Dubins/img/logo/logo.png" width="170" height="80">
+  <img src="https://singlife.com/etc.clientlibs/asl-public/clientlibs/clientlib-base/resources/assets/logo/sl-logo-singlife.png" width="170" height="80">
+  <img src="https://static.aviva.io/assets/logo/aviva-logo.svg" width="140" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_FWD.svg/800px-Logo_FWD.svg.png" width="140" height="50">
+</div>
 
 ## Contact Me
 
