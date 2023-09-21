@@ -21,7 +21,7 @@ My recent work has increased **customer efficiency** and profitability by provid
 - **Backend:** Spring Boot, Node.js, Express, MongoDB, Spring, Java, Hibernate :rocket: 👨‍💻
 - **Tools:** Git, GitHub, VS Code, OpenShift, Dynatrace, Kibana, Jira, GitLab, BigBucket, Sonarqube :rocket: 👨‍💻
  
-## Projects
+## Projects and Clients I have worked and Delivered
 I have worked with my International clients onsite, worked closely with them, and delivered always as promised. Below are the clients I have worked tii date.
 - **Client 1:** [AXA Indonesia]  **OFFSITE** 👨‍💻 :computer: :smile: 🔥 
 - **Client 2:** [AXA Thailand] **ONSITE** 👨‍💻 :computer: :smile: 🔥 
