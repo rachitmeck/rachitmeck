@@ -23,8 +23,8 @@ My recent work has increased **customer efficiency** and profitability by provid
  
 ## Clients and Projects I have worked with and Delivered:
 I have worked with my International clients onsite, worked closely with them, and delivered always as promised. Below are the clients I have worked with to date.
-- **AXA Indonesia:** `OFFSITE` 👨‍💻 :indonesia: 
 - **AXA Thailand:** `ONSITE` 👨‍💻 :thailand: 
+- **AXA Indonesia:** `OFFSITE` 👨‍💻 :indonesia: 
 - **Aviva Singapore:**   `OFFSITE` 👨‍💻 :singapore:
 - **Dubai Insurance:** `ONSITE` 👨‍💻 :united_arab_emirates:
 - **Prudential Malaysia Insurance:**  `ONSITE` 👨‍💻 :malaysia: 
@@ -36,7 +36,7 @@ I have worked with my International clients onsite, worked closely with them, an
 - **FWD Vietnam Insurance:** `OFFSITE` 👨‍💻 :vietnam: 
   
 <div>
-  <img src="https://www.prudential.com.my/export/sites/prudential-pamb/en/.galleries/images/prudential-malaysia-logo-1200x630.jpg" width="170" height="80">
+  <img src="https://www.prudential.com.my/export/sites/prudential-pamb/en/.galleries/images/prudential-malaysia-logo-1200x630.jpg" width="200" height="100">
    <img src="https://axa.co.id/o/axaone-theme/images/logo-axa.png" width="80" height="80"> 
   <img src="https://www.dubins.ae/dubins/portals/_default/Skins/Dubins/img/logo/logo.png" width="170" height="80">
   <img src="https://singlife.com/etc.clientlibs/asl-public/clientlibs/clientlib-base/resources/assets/logo/sl-logo-singlife.png" width="170" height="80">
