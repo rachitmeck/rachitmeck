@@ -24,9 +24,9 @@ My recent work has increased **customer efficiency** and profitability by provid
 ## Clients and Projects I have worked with and Delivered:
 I have worked with my International clients onsite, worked closely with them, and delivered always as promised. Below are the clients I have worked with to date.
 - **AXA Thailand:** `ONSITE` 👨‍💻 :thailand: 
-- **AXA Indonesia:** `OFFSITE` 👨‍💻 :indonesia: 
-- **Aviva Singapore:**   `OFFSITE` 👨‍💻 :singapore:
+- **AXA Indonesia:** `OFFSITE` 👨‍💻 :indonesia:
 - **Dubai Insurance:** `ONSITE` 👨‍💻 :united_arab_emirates:
+- **Aviva Singapore:**   `OFFSITE` 👨‍💻 :singapore:
 - **Prudential Malaysia Insurance:**  `ONSITE` 👨‍💻 :malaysia: 
 - **Prudential Malaysia Takaful Insurance:** `ONSITE` 👨‍💻 :malaysia: 
 - **Prudential Singapore Insurance:** `ONSITE` 👨‍💻 :singapore: 
