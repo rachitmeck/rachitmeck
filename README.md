@@ -40,7 +40,8 @@ I have worked with my International clients onsite, worked closely with them, an
   <img src="https://www.dubins.ae/dubins/portals/_default/Skins/Dubins/img/logo/logo.png" width="170" height="80">
   <img src="https://singlife.com/etc.clientlibs/asl-public/clientlibs/clientlib-base/resources/assets/logo/sl-logo-singlife.png" width="170" height="80">
   <img src="https://static.aviva.io/assets/logo/aviva-logo.svg" width="140" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_FWD.svg/800px-Logo_FWD.svg.png" width="140" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_FWD.svg/800px-Logo_FWD.svg.png" width="120" height="50">
+  <img src="https://www.myguardiangroup.com/images/lightLogo.webp" width="140" height="50">
 </div>
 
 ## Contact Me
