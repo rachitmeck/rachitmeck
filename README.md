@@ -1,12 +1,11 @@
 <div id="header" align="center">
-  <h2> Hello 👋 I'm Rachit Mehrotra</h2>
+  <h2> Hello 👋 I'm Rachit Mehrotra, connect me on:</h2>
   <div id="badges">
     <a href="https://www.linkedin.com/in/rachit-mehrotra-io/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://content.linkedin.com/content/dam/brand/site/img/logo/logo-r.png" alt="LinkedIn Badge" width="400" height="100"/>
     </a>
   </div>
 </div>
-
 
 # Hello, there! 👋
 
