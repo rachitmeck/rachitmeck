@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h2> Hi 👋 I'm Rachit Mehrotra</h2>
+  <h2> Hello 👋 I'm Rachit Mehrotra</h2>
   <div id="badges">
     <a href="https://www.linkedin.com/in/rachit-mehrotra-io/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
