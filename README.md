@@ -9,7 +9,7 @@
 
 # Hello, there! 👋
 
-I'm a full-stack developer with experience in building efficient and scalable applications.
+I'm a full-stack developer with experience in **building efficient, secure, scalable application's**.
 7 years of Software Engineer experience in multiple countries; with a passionate, self-motivated, and creative attitude toward solving customer problems. 
 My recent work has increased **customer efficiency** and profitability by providing an efficient solution. A self-learner and passionate about the AI/ML journey.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -17,8 +17,10 @@ My recent work has increased **customer efficiency** and profitability by provid
 ## Skills :computer: :computer:  
 
 - **Frontend:** React, JavaScript, React Native, NextJS, HTML, CSS, Angular, NPM, TypeScript :rocket: 👨‍💻
-- **Backend:** Spring Boot, Node.js, Express, MongoDB, Spring, Java, Hibernate, PostgreSQL, MySQL, Spring Data JPA, Spring Batch, Spring LDAP :rocket: 👨‍💻
-- **Tools:** Git, GitHub, VS Code, OpenShift, Dynatrace, Kibana, Case Manager, Jira, GitLab, BigBucket, Sonarqube, IBM BPM, IBM Content Manager, IBM FileNet, Activiti BPM, Flowable BPM, Eclipse, Intellij, CMX, Kafka, ELK, AWS, Figma, Visio, Firebase, Jenkins, Snyk  :rocket: 👨‍💻
+- **Backend:** Spring Boot, Node.js, Express, Spring, Java, Hibernate, Spring Data JPA, Spring Batch, Spring LDAP, Spring Security, Spring Cloud :rocket: 👨‍💻
+- **Tools:** Git, GitHub, VS Code, OpenShift, Dynatrace, Kibana, Case Manager, Jira, GitLab, BigBucket, Sonarqube, IBM BPM, IBM Content Manager, IBM FileNet, Activiti BPM, Flowable BPM, Eclipse, Intellij, CMX, Kafka, ELK, AWS, Figma, Visio, Firebase, Jenkins, Snyk, Case Manager, AS400, Fiserv, iPay88, Stripe  :rocket: 👨‍💻
+- **Databases** PostgreSQL, IBM DB2, MongoDB, MySQL :rocket: 👨‍💻
+- **Cloud** AWS, Azure :rocket: 👨‍💻
  
 ## Clients and Projects I have worked with and Delivered:
 I have worked with my International clients onsite, worked closely with them, and delivered always as promised. Below are the clients I have worked with to date.
