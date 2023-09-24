@@ -21,6 +21,7 @@ My recent work has increased **customer efficiency** and profitability by provid
 - **Tools:** Git, GitHub, VS Code, OpenShift, Dynatrace, Kibana, Case Manager, Jira, GitLab, BigBucket, Sonarqube, IBM BPM, IBM Content Manager, IBM FileNet, Activiti BPM, Flowable BPM, Eclipse, Intellij, CMX, Kafka, ELK, AWS, Figma, Visio, Firebase, Jenkins, Snyk, Case Manager, AS400, Fiserv, iPay88, Stripe  :rocket: 👨‍💻
 - **Databases** PostgreSQL, IBM DB2, MongoDB, MySQL :rocket: 👨‍💻
 - **Cloud** AWS, Azure :rocket: 👨‍💻
+- **Testing** JUNIT, Jest, SIT, Unit Testing, SIT, UAT :rocket: 👨‍💻
  
 ## Clients and Projects I have worked with and Delivered:
 I have worked with my International clients onsite, worked closely with them, and delivered always as promised. Below are the clients I have worked with to date.
